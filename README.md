@@ -1,4 +1,4 @@
-<img align="right" width="480" height="400" src="cartoon.jpg">
+<img align="right" width="480" height="400" src="https://github.com/Shaedil/Shaedil/blob/master/cartoon.jpg">
 
 # Shaedil Dider :wave:
 
